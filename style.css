@@ -27,7 +27,10 @@ body {
 }
 
 .card section {
-    padding: 20px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .card h1 {
