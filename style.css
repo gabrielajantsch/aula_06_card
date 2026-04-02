@@ -14,7 +14,8 @@ body {
 }
 
 .card {
-    background-color: #ffffff;
+    background-color: #f8f1e4;
+    border: 8px solid #9c8c56;
     width: 350px;
     height: 600px;
     max-height: 85vh;
@@ -22,6 +23,7 @@ body {
     border-radius: 15px;
     overflow: hidden; 
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    box-shadow: 0 0 20px rgba(212, 175, 55, 0.4);
     flex-direction: column;
 }
 
