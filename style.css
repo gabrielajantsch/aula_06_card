@@ -35,16 +35,23 @@ body {
     color: #2c1e14;
     border-bottom: 2px solid rgba(212, 175, 55, 0.4);
     font-size: 1.2rem; 
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: 5px;
+}
+
+.card h2 {
+    font-family: 'Georgia', serif;
+    color: #2c1e14;
+    font-size: 1.0rem; 
 }
 
 .card .descricao, 
 .card .habilidades, 
 .card .caracteristicas {
-    font-size: 0.7rem; 
+    font-size: 0.8rem; 
     line-height: 1.4; 
+    margin-top: 3px;
+    margin-bottom: 3px;
 }
-
 
 
