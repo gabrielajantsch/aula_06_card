@@ -32,7 +32,7 @@ body {
 
 .card h1 {
     font-family: 'Georgia', serif;
-    color: #2c1e14;
+    color: #29190d;
     border-bottom: 2px solid rgba(212, 175, 55, 0.4);
     font-size: 1.2rem; 
     margin-top: 5px;
@@ -41,7 +41,7 @@ body {
 
 .card h2 {
     font-family: 'Georgia', serif;
-    color: #2c1e14;
+    color: #29190d;
     font-size: 1.0rem; 
 }
 
@@ -55,14 +55,23 @@ body {
 }
 
 .card ul {
+    font-family: 'Georgia', serif;
     list-style-type: "⚔️ "; 
     padding-left: 20px;
-    color: #2c1e14;
+    color: #412a1b;
 }
 
 .card li {
     margin-bottom: 5px; 
     font-weight: bold;  
+}
+
+
+.card p {
+  font-family: 'Georgia', serif;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  color: #412a1b;
 }
 
 
